@@ -2,8 +2,8 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [README](README.md)
 
-## Methods
+## Getting Started
 
-* [Defining Methods](methods.md)
+* [Bootstrapping](bootstrap.md)

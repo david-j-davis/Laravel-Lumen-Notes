@@ -1,3 +1,6 @@
-# My Awesome API
+# Laravel Lumen Notes
+Getting up and running with Laravel Lumen
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+David J. Davis  
+Web Developer
+[Portfolio](http://david-james-davis.com)
