@@ -1,5 +1,7 @@
 # Laravel Lumen Notes
 ---
+*The following tutorial is loosly adopted from [http://wern-ancheta.com/blog/2015/05/09/getting-started-with-lumen/](http://wern-ancheta.com/blog/2015/05/09/getting-started-with-lumen/)*
+
 ### Installing & Serving your Lumen App
 1. Download Lumen using composer ```composer global require "laravel/lumen-installer```
 2. Place ```~/.composer/vendor/bin``` in your Bash Profile like: ```export PATH="~/.composer/vendor/bin:$PATH"```
